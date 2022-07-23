@@ -1,0 +1,13 @@
+<TrackerSettings>
+	<TrackerList />
+	<Notifications />
+	<Settings>
+		<GeneralSettings>
+			<ConsultInterval>30</ConsultInterval>
+		</GeneralSettings>
+		<Access>
+			<Email>bpristont8@gmail.com</Email>
+			<Password>priston@123</Password>
+		</Access>
+	</Settings>
+</TrackerSettings>
